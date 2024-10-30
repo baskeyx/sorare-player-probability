@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "graphql": "^16.9.0",
     "graphql-request": "^7.1.0"
   }
